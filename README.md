@@ -1,1 +1,1 @@
-generate-toc:1: no such file or directory: ./gen-toc.sh
+generate-toc:1: permission denied: ./gen-toc.sh
