@@ -2,6 +2,8 @@
 - [DEA](DEA)
   - [a-general](DEA/a-general.md)
 - [Level-up-training](Level-up-training.md)
+- [Passwords](Passwords)
+  - [gatekeepers](Passwords/gatekeepers.md)
 - [testing-notes](testing-notes)
   - [README](testing-notes/README.md)
   - [training-topics](testing-notes/training-topics.md)
