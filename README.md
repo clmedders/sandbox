@@ -20,6 +20,7 @@
   - [var](/var)
 - [DEA](DEA)
   - [a-general](DEA/a-general.md)
+- [Git-writeups](Git-writeups.md)
 - [Level-up-training](Level-up-training.md)
 - [Passwords](Passwords)
   - [gatekeepers](Passwords/gatekeepers.md)
