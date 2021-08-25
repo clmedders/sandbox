@@ -5,4 +5,5 @@ Things to think of before you get started...
     - Dont do shortcuts... type it out (i know it sucks but just do it)
     - Walk away for a bit and then come back to make sure you got it all
     - Be sure that everything is the correct test (all titles are the same and that everthing is numbered as well)
+    - 
 
