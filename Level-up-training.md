@@ -13,3 +13,6 @@ Before and after hooks
     - beforeEach - runs before every blcok 
     - afterEach - runs after every block 
     - after - runs once after all 
+
+do a command to make life easy 
+ "test": "cypress run --headless"
