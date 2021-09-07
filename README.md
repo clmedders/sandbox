@@ -21,6 +21,7 @@
 - [DEA](DEA)
   - [a-general](DEA/a-general.md)
 - [Git-writeups](Git-writeups.md)
+- [JS_course](JS_course.md)
 - [Level-up-training](Level-up-training.md)
 - [MiA](MiA.md)
 - [Passwords](Passwords)

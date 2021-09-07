@@ -7,3 +7,5 @@ Things to think of before you get started...
     - Be sure that everything is the correct test (all titles are the same and that everthing is numbered as well)
     - 
 
+    /// <reference types="Cypress" />
+
