@@ -9,3 +9,10 @@ Things to think of before you get started...
 
     /// <reference types="Cypress" />
 
+
+[3:29 PM] Scott Queen
+    ```
+module.exports = {​  extends: ["plugin:chai-friendly/recommended", "plugin:cypress/recommended"],  rules: {​    "cypress/no-assigning-return-values": "error",    "cypress/no-unnecessary-waiting": "error",    "cypress/assertion-before-screenshot": "warn",    "cypress/no-force": "warn",    "cypress/no-async-tests": "error",  }​,  env: {​    "cypress/globals": true,  }​,}​;
+```
+https://cards-dev.twitter.com/validator
+https://ogp.me/
