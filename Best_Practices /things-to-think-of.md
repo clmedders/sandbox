@@ -16,3 +16,5 @@ module.exports = {​  extends: ["plugin:chai-friendly/recommended", "plugin:cyp
 ```
 https://cards-dev.twitter.com/validator
 https://ogp.me/
+
+meta data - is that on testing or content to check and make sure that the right info is there?
