@@ -9,6 +9,9 @@ Things to think of before you get started...
 
     /// <reference types="Cypress" />
 
+    `source /Users/cmedders/.rvm/scripts/rvm` - To start using RVM you need to run `source /Users/cmedders/.rvm/scripts/rvm`
+    in all your open shell windows, in rare cases you need to reopen all shell windows.
+
 
 [3:29 PM] Scott Queen
     ```
