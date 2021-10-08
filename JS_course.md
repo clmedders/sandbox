@@ -16,3 +16,7 @@ an anonimus function is one with out a name
 IIFE -> immediately invoked function expression 
 
 call stack or stack trace -> 
+
+hoisting let you access functions and vaiables before they have been created 
+
+closures 

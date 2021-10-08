@@ -21,3 +21,18 @@ https://cards-dev.twitter.com/validator
 https://ogp.me/
 
 meta data - is that on testing or content to check and make sure that the right info is there?
+
+check for meta data, robot.text (tell robots what to search)
+
+work on a punch list of what to do for my QA stand point 
+
+uptime running?
+
+create a templete for QA tickets 
+
+
+links are opening in new tab - (_blank)
+
+test anchor links
+
+run snapshot tets 
