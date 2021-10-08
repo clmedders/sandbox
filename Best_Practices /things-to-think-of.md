@@ -35,7 +35,7 @@ links are opening in new tab - (_blank)
 
 test anchor links
 
-run snapshot tets 
+run snapshot tets!
 
 
 
