@@ -40,7 +40,6 @@ run snapshot tets
 
 
 
-
 it("check anchor links", () => {
   //   // CY goes to each URL in the arry from site map 
   //   // checks to make sure that each anchor link is working
