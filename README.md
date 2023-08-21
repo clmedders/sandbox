@@ -1,0 +1,1 @@
+to start server -> npm start and visit url 
