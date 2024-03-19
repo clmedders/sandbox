@@ -1,0 +1,72 @@
+<!-- Create a standalone html page with a form in it that can be tested by Amy, maybe using github pages.
+
+The test should include 2 things:
+
+1. The USWDS inline alert that has attributes:
+
+role="region" aria-live="polite" aria-label="informative alert"
+
+2. A form that used the different grouping methods listed here
+https://www.w3.org/WAI/tutorials/forms/grouping/
+
+fieldset + legend
+div + role="group" + aria-label="name of group" -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+
+.container {
+      margin: auto;
+      width: 50%;
+      padding-top: 50px;
+    }
+
+  </style>
+  <link rel="stylesheet" type="text/css" href="./assets/css/styles.css">
+  <title>Accessability Testing</title>
+</head>
+<body>
+    <div class="container">
+<!-- uswds inline alert that has role="region" aria-live="polite" aria-label="informative alert" -->
+<div class="usa-alert usa-alert--info usa-alert--no-icon" role="region" aria-live="polite" aria-label="informative alert">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      Lorem ipsum dolor sit amet, elit, sed do eiusmod.
+    </p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<fieldset>
+  <legend>Output format</legend>
+    <div>
+      <input type="radio" name="format" id="txt" value="txt">
+      <label for="txt">Text file</label>
+    </div>
+    <div>
+      <input type="radio" name="format" id="csv" value="csv">
+      <label for="csv">CSV file</label>
+    </div>
+  </fieldset>
+<br>
+<br>
+<br>
+<br>
+<div role="group" aria-labelledby="shipping_head">
+	<div id="shipping_head">Shipping Address:</div>
+	<div>
+		<label for="shipping_name">
+        Name:
+    </label><br>
+		<input type="text" name="shipping_name" id="shipping_name">
+	</div>
+</div>
+</div>
+</body>
+</html>
